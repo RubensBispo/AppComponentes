@@ -22,6 +22,12 @@
         Vivamus vulputate accumsan felis et dapibus."
         />
 
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Li e aceito"
+        />
+
     <ImageView
         android:layout_width="410dp"
         android:layout_height="250dp"
