@@ -19,7 +19,9 @@
         android:layout_height="wrap_content"
         android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
+
         Vivamus vulputate accumsan felis et dapibus."
+        android:padding="5dp"
         />
 
     <CheckBox
